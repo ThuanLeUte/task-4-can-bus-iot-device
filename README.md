@@ -1,6 +1,6 @@
-==============================
+
 Electronics design Task#4
-==============================
+
 Concept and Design of a LoRa controlled 2-pair brushed DC motor setup.
 
 Robot will be of same specs as this:
